@@ -31,3 +31,24 @@ h1 {
 .links a.active {
   border-bottom: black 1px solid;
 }
+
+.card img {
+  object-fit: cover;
+  height: 350px;
+  width: 100%;
+}
+.card {
+  width: 49.87%;
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 16px;
+}
+.card h2 {
+  font-weight: 300;
+  display: inline-block;
+  margin: 8px 0 8px 0;
+}
+
+.gallery {
+  padding: 16px;
+}
