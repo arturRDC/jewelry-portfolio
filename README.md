@@ -1,1 +1,1 @@
-"# jewelry-portfolio" 
+# jewelry-portfolio
