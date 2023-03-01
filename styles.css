@@ -48,8 +48,39 @@ h1 {
   width: 100%;
 }
 
+.card img:hover {
+  opacity: 0.85;
+}
+
 .card h2 {
   font-weight: 300;
   display: inline-block;
   margin: 8px 0 8px 0;
+}
+
+.about-me h3 {
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.about-me {
+  width: 40%;
+  min-width: 500px;
+  margin: 100px 0 100px 140px;
+}
+
+.contact {
+  margin-top: 100px;
+}
+
+.contact p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.call-to-action {
+  display: inline-block;
+  padding: 3px;
+  border-bottom: 1px black solid;
+  margin-top: 0;
 }
